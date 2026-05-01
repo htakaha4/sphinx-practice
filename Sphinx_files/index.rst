@@ -17,11 +17,11 @@ Welcome to Sphinx-Practice's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   ./chapter1
+   ./chapter1.rst
    
-   ./chapter2
+   ./chapter2.rst
    
-   ./chapter3
+   ./chapter3.rst
    
 
 
