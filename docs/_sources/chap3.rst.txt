@@ -1,5 +1,4 @@
-chapter 3
-
+Chapter 3
 =========
 
-これは chapter3.rst の内容です。
+これは chap3.rst の内容です。
