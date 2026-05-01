@@ -27,12 +27,12 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 # サイドバーの表示を固定
-html_sidebars = {
-    '**' : [
-        'about.html',
-        'navigation.html',
-        'relations.html',
-        'searchbox.html',
-        'index.html',
-    ]
-}
+#html_sidebars = {
+#    '**' : [
+#        'about.html',
+#        'navigation.html',
+#        'relations.html',
+#        'searchbox.html',
+#        'index.html',
+#    ]
+#}
