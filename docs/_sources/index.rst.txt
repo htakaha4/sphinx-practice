@@ -14,6 +14,7 @@ Welcome to Sphinx-Practice's documentation!
 ===========================================
 
 .. toctree::
+
    :maxdepth: 2
    :caption: Contents:
    ./chap1
