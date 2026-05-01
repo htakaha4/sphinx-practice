@@ -16,14 +16,9 @@ Welcome to Sphinx-Practice's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-   ./chapter1.rst
-   
-   ./chapter2.rst
-   
-   ./chapter3.rst
-   
-
+   ./chap1
+   ./chap2
+   ./chap3
 
 Indices and tables
 
