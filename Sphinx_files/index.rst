@@ -1,31 +1,33 @@
-.. Sphinx-practice documentation master file, created by
-   sphinx-quickstart on Fri May  1 11:32:53 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Chapter 1
+=========
 
-.. Sphinx-practice documentation
-.. =============================
-.. 
-.. Add your content using ``reStructuredText`` syntax. See the
-.. `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-.. documentation for details.
+これは chap1.rst の内容です。
 
-Welcome to Sphinx-Practice's documentation!
-===========================================
+###############
+h1 相当の見出し
+###############
+寿限無　寿限無
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   
-   ./chap1
-   ./chap2
-   ./chap3
+***************
+h2 相当の見出し
+***************
+五劫の擦り切れ
 
-Indices and tables
+h3 相当の見出し
+===============
+海砂利水魚の水行末
 
-==================
+h4 相当の見出し
+------------------
 
+雲来末　風来末
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+h5 相当の見出し
+^^^^^^^^^^^^^^^^^^
+
+食う寝るところに　住むところ
+
+h6 相当の見出し
+"""""""""""""""""""
+
+やぶらこうじの　ぶらこうじ
