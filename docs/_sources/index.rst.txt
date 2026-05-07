@@ -2,9 +2,8 @@
 目次
 ####
 
-
 .. toctree::
 
-   ./chapter1
-   ./chapter2
-   ./chapter3
+   ./chapter1.rst
+   ./chapter2.rst
+   ./chapter3.rst

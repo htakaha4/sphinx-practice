@@ -4,6 +4,6 @@
 
 .. toctree::
 
-   ./chapter1.rst
-   ./chapter2.rst
-   ./chapter3.rst
+   ./chapter1
+   ./chapter2
+   ./chapter3
