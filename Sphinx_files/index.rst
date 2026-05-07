@@ -3,7 +3,6 @@
 ####
 
 .. toctree::
-   :maxdepth: 1
 
    ./chapter1
    ./chapter2
