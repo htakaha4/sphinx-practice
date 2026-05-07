@@ -3,6 +3,7 @@
 ####
 
 .. toctree::
+   :numbered:
 
    ./chapter1
    ./chapter2
