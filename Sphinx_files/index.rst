@@ -5,6 +5,6 @@
 
 .. toctree::
 
-    ./chapter1
-    ./chapter2
-    ./chapter3
+    chapter1
+    chapter2
+    chapter3
