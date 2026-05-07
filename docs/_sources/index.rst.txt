@@ -3,7 +3,7 @@
 ####
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
 
    ./chapter1
    ./chapter2
