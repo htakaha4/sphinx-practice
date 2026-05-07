@@ -3,6 +3,7 @@
 ####
 
 .. toctree::
+   :hidden:
 
    ./chapter1
    ./chapter2
